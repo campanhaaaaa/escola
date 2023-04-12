@@ -1,3 +1,5 @@
  Curso de Logistica
  Curso de Programação Aplicativos
  Cursos de Desenvolvimento de Software
+ Curso de Eletronica
+ Curso de IoT
