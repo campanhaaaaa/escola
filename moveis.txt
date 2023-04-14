@@ -1,0 +1,8 @@
+Nome: Bacia
+Peso: 115kg
+
+Nome: Armario
+Peso: 70kg
+
+Nome: bancada
+Peso: 50kg
